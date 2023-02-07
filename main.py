@@ -1,0 +1,6 @@
+print("Welcome to Vr Demonstration")
+print("Here you can book ticket for vr")
+print("please write your name")
+name = input("")
+print(f"So hello {name} for pricing please type price")
+priceask = input("")
